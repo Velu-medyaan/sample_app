@@ -1,5 +1,4 @@
-{
-  "formFields": [
+[
     {
       "type": "text",
       "label": "Full Name",
@@ -48,4 +47,3 @@
       "required": true
     }
   ]
-}
