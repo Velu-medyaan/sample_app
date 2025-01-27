@@ -40,6 +40,10 @@
           "value": "ca",
           "label": "Canada"
         },
+           {
+          "value": "uae",
+          "label": "United Emirates"
+        },
         {
           "value": "in",
           "label": "India"
